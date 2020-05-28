@@ -1,0 +1,32 @@
+- name: 常用工具
+  icon: linecons-star
+  links: 
+    - title: Dribbble
+      logo: /assets/images/logos/dribbble.png
+      url: https://dribbble.com/
+      description: 全球UI设计师作品分享平台。
+
+- name: 社区资讯
+  icon: linecons-doc
+  links: 
+    - title: 雷锋网
+      logo: /assets/images/logos/leiphone.png
+      url: https://www.leiphone.com/
+      description: 人工智能和智能硬件领域的互联网科技媒体
+
+- name: 灵感采集
+  icon: linecons-lightbulb
+  sub: 
+    - name: 发现产品
+      links:
+        - title: Producthunt
+          logo: /assets/images/logos/producthunt.png
+          url: https://www.producthunt.com/
+          description: 发现新鲜有趣的产品
+
+    - name: 界面灵感
+      links:
+        - title: Pttrns
+          logo: /assets/images/logos/Pttrns.png
+          url: https://www.pttrns.com/
+          description: Check out the finest collection of design patterns, resources, mobile apps and inspiration
