@@ -22,7 +22,7 @@ title: CTFstack
 keywords: 
 description: CTFstack - 收集国内外CTF工具,wp,题库,博客。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://webstack.0xl2oot.cn" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://vaalacat.github.io/ctfstack" # the base hostname & protocol for your site, e.g. http://example.com
 
 email: me@vaala.cat
 
@@ -32,7 +32,7 @@ plugins:
   - jekyll-feed
 
 github:
-  repo: 0xl2oot/webstack-jekyll
+  repo: vaalacat/ctfstack
 
 # Exclude from processing.
 # The following items will not be processed, by default.
